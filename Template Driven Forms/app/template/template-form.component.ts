@@ -19,8 +19,8 @@ submitted: Boolean = false;
 
 ngOnInit() {
     this.user = {
-        Name: 'Neha',
-        Username: 'Paul'
+        Name: '',
+        Username: ''
     };
 }
 
